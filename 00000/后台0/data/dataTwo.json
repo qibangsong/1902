@@ -1,0 +1,39 @@
+{
+	"foot": {
+		"login": "登录 |",
+		"register": "注册 |",
+		"homepage": "首页 |",
+		"download": "下载APP |",
+		"phone": "客服电话 |",
+		"sign": "增值电信业务经营许可证豫B2-20180606 |",
+		"signone": "广播电视节目制作经营许可证（豫）字第00607号 |",
+		"signtwo": "网络文化经营许可证豫网文【2019】0103-001号 |",
+		"copy": "Copyright © 2019 学习8版权所有"
+	},
+	"denglu": {
+		"title": "注册登录",
+		"dl": "登录",
+		"zc": "注册",
+		"hm": "手机号或学号",
+		"psw": "请输入密码",
+		"wj": "忘记密码",
+		"name": "填写姓名",
+		"tx": "填写手机号",
+		"yzm": "请输入验证码",
+		"sjyz": "请输入手机验证码",
+		"fs": "发送",
+		"yq": "6-20位密码（大小写+数字组合）",
+		"other": "下一步"
+	},
+	"cela": {
+		"logourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/moren%403x.png?x-oss-process=style/thumb6",
+		"logoname": "登录-学习8",
+		"homepage": "首页",
+		"dingdan": "我的订单",
+		"study": "在线学",
+		"sc": "我的收藏",
+		"xiazai": "下载学习8APP",
+		"phone": "客服电话 0371-55171772"
+	}
+	
+}

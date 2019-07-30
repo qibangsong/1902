@@ -1,0 +1,1469 @@
+{
+	"homepage": {
+	  "logoimg": "1.png",
+	  "searchimg": "3.jpg",
+	  "searchname": "搜索课程",
+	  "searchname1": "在线课 | 搜索课程",
+	  "qx": "取消",
+	  "hot": "热门搜索",
+	  "dear": "最近搜索",
+	  "curriculum": [
+		  {
+			"name": "高中数学",
+			"stele": [
+				{
+				  "name": "全部",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "精品课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "公开课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "家长课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				}
+			]
+		  },
+		  {
+			"name": "英语",
+			"stele": [
+				{
+				  "name": "全部",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "精品课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "公开课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "家长课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				}
+			]
+		  },
+		  {
+			"name": "新概念",
+			"stele": [
+				{
+				  "name": "全部",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "精品课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "公开课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "家长课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				}
+			]
+		  },
+		  {
+			"name": "七年级数学",
+			"stele": [
+				{
+				  "name": "全部",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "精品课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "公开课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "家长课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				}
+			]
+		  },
+		  {
+			"name": "物理",
+			"stele": [
+				{
+				  "name": "全部",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "精品课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "公开课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "家长课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				}
+			]
+		  },
+		  {
+			"name": "剑桥少儿英语",
+			"stele": [
+				{
+				  "name": "全部",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "精品课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "公开课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				},
+				{
+				  "name": "家长课",
+				  "active": "直播课",
+				  "active1": "视频课"
+				}
+			]
+		  }
+	   ],
+	  "menuimg": "2.jpg",
+	  "menu": "菜单",
+	  "menucont": [
+		  {
+			"styleimg": "4.jpg",
+			"name": "登录-学习8",
+			"sy": "首页",
+			"dingdan": "我的订单",
+			"zxx": "在线学",
+			"sc": "我的搜藏",
+			"xz": "下载学习8APP",
+			"kf": "客服电话 0371-55171772"
+		  }
+	  ],
+	  "banner": [
+		  {
+				"imgurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/system_15628111065837_13bdac194eb88e5e09432b2142449c5f.png",
+				"img1": "d1.jpg",
+				"img2": "d2.jpg",
+				"img3": "d3.jpg",
+				"img4": "d4.jpg"
+			},
+		  {
+				"imgurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/system_15616221636725_620e91f3cddcf633807580ff96f79d6f.png",
+				"img1": "e1.jpg",
+				"img2": "e2.jpg",
+				"img3": "e3.jpg",
+				"img4": "e4.jpg",
+				"img5": "e5.jpg"
+		  },
+		  {
+				"imgurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/system_1561625711675_5b8b927ee9abbfd571f85f9228a2ae29.png",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": " 郑州初中英语高频词汇点睛",
+				"people": "已报421人",
+				"time": "共16节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1496393237261.jpg?x-oss-process=style/thumb6",
+				"name": "主讲老师：李静",
+				"age": "5年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1561630223437.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "高频词汇点睛1-6可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "高频词汇点睛7-12"
+					},
+					{
+						"pitch": "第3节",
+						"num": "高频词汇点睛13-18"
+					},
+					{
+						"pitch": "第4节",
+						"num": "高频词汇点睛19-24"
+					},
+					{
+						"pitch": "第5节",
+						"num": "高频词汇点睛25-30"
+					},
+					{
+						"pitch": "第6节",
+						"num": "高频词汇点睛31-36"
+					},
+					{
+						"pitch": "第7节",
+						"num": "高频词汇点睛37-42"
+					},
+					{
+						"pitch": "第8节",
+						"num": "高频词汇点睛43-48"
+					},
+					{
+						"pitch": "第9节",
+						"num": "高频词汇点睛49-54"
+					},
+					{
+						"pitch": "第10节",
+						"num": "高频词汇点睛55-60"
+					},
+					{
+						"pitch": "第11节",
+						"num": "高频词汇点睛61-66"
+					},
+					{
+						"pitch": "第12节",
+						"num": "高频词汇点睛67-72"
+					},
+					{
+						"pitch": "第13节",
+						"num": "高频词汇点睛73-78"
+					},
+					{
+						"pitch": "第14节",
+						"num": "高频词汇点睛79-84"
+					},
+					{
+						"pitch": "第15节",
+						"num": "高频词汇点睛85-90"
+					},
+					{
+						"pitch": "第16节",
+						"num": "高频词汇点睛91-100"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"imgurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/system_15616257456831_6583a1b221eb05bf2280b78604ca0e79.png",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": " 郑州初中英语常考语法串讲",
+				"people": "已报450人",
+				"time": "共15节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/201801261350173496.jpg?x-oss-process=style/thumb6",
+				"name": "主讲老师：尚文治",
+				"age": "8年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1563518842335.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "常考语法串讲-名词可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "常考语法串讲-冠词"
+					},
+					{
+						"pitch": "第3节",
+						"num": "常考语法串讲-代词"
+					},
+					{
+						"pitch": "第4节",
+						"num": "常考语法串讲-介词"
+					},
+					{
+						"pitch": "第5节",
+						"num": "常考语法串讲-形容词"
+					},
+					{
+						"pitch": "第6节",
+						"num": "常考语法串讲-副词"
+					},
+					{
+						"pitch": "第7节",
+						"num": "常考语法串讲-动词"
+					},
+					{
+						"pitch": "第8节",
+						"num": "常考语法串讲-时态"
+					},
+					{
+						"pitch": "第9节",
+						"num": "常考语法串讲-被动语态"
+					},
+					{
+						"pitch": "第10节",
+						"num": "高频词常考语法串讲-情态动词"
+					},
+					{
+						"pitch": "第11节",
+						"num": "常考语法串讲-非谓语动词"
+					},
+					{
+						"pitch": "第12节",
+						"num": "常考语法串讲-简单句"
+					},
+					{
+						"pitch": "第13节",
+						"num": "常考语法串讲-状语从句"
+					},
+					{
+						"pitch": "第14节",
+						"num": "高频词汇点睛79-84"
+					},
+					{
+						"pitch": "第15节",
+						"num": "常考语法串讲-宾语从句"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"imgurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/system_15599865614693_c267cef0f83b83132edadc0b0fda8ab6.jpg",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": " 小学语文阅读写作暑假必修课",
+				"people": "已报1097人",
+				"time": "共6节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1543311341882.jpeg?x-oss-process=style/thumb6",
+				"name": "主讲老师：任小玲",
+				"age": "7年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1559986514501.jpg?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "基础提升之修改病句可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "基础提升之修辞手法"
+					},
+					{
+						"pitch": "第3节",
+						"num": "升学之路上阅读理解的重要性"
+					},
+					{
+						"pitch": "第4节",
+						"num": "如何短时间内提升阅读理解能力"
+					},
+					{
+						"pitch": "第5节",
+						"num": "升学之路上作文写作的重要性"
+					},
+					{
+						"pitch": "第6节",
+						"num": "如何短时间内提升作文写作能力"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"imgurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/system_15599872826947_c6e90d9b5cffc3d1086d5f90613da83d.png",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": " 小升初预备暑假必修课",
+				"people": "已报974人",
+				"time": "共47节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1527146404900.png?x-oss-process=style/thumb6",
+				"name": "主讲老师：唐恩泽",
+				"age": "20年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1559987158147.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "2019郑州市小升初政策介绍可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "近十年郑州小升初概况"
+					},
+					{
+						"pitch": "第3节",
+						"num": "小升初择校热点名校介绍-四大金刚"
+					},
+					{
+						"pitch": "第4节",
+						"num": "小升初择校热点名校介绍-金水区"
+					},
+					{
+						"pitch": "第5节",
+						"num": "小升初择校热点名校介绍-经开区"
+					},
+					{
+						"pitch": "第6节",
+						"num": "小升初择校热点名校介绍-惠济区"
+					},
+					{
+						"pitch": "第7节",
+						"num": "小升初择校热点名校介绍-管城区"
+					},
+					{
+						"pitch": "第8节",
+						"num": "小升初择校热点名校介绍-二七区"
+					},
+					{
+						"pitch": "第9节",
+						"num": "小升初择校热点名校介绍-中原区"
+					},
+					{
+						"pitch": "第10节",
+						"num": "小升初择校热点名校介绍-高新区"
+					},
+					{
+						"pitch": "第11节",
+						"num": "小升初必考综合知识-历史1"
+					},
+					{
+						"pitch": "第12节",
+						"num": "小升初必考综合知识-历史2"
+					},
+					{
+						"pitch": "第13节",
+						"num": "小升初必考综合知识-历史3"
+					},
+					{
+						"pitch": "第14节",
+						"num": "小升初必考综合知识-历史4"
+					},
+					{
+						"pitch": "第15节",
+						"num": "小升初必考综合知识-中国地理"
+					}
+				],
+				"evalu": "8.gif"
+		  }
+	  ],
+	  "section": [
+		  {
+				"img": "5.png",
+				"msg": "精品课",
+				"nianji": "年级",
+				"style": "课程类型",
+				"shaixuan": "筛选",
+				"typeone": "直播课",
+				"typetwo": "视频课",
+				"conone": [
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1552887870461.jpeg?x-oss-process=style/thumb4",
+						"title": "小学必考点 修辞手法全攻略",
+						"time": "03月22日开课  共1节",
+						"peo": "已报1860人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1551951422484.png?x-oss-process=style/thumb4",
+						"title": "剑少英语考级 一级试卷解析",
+						"time": "03月17日开课  共1节",
+						"peo": "已报714人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1551951503686.png?x-oss-process=style/thumb4",
+						"title": "剑少英语考级 二级试卷解析",
+						"time": "03月22日开课  共1节",
+						"peo": "已报633人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1547172212723.jpeg?x-oss-process=style/thumb4",
+						"title": "郑州2019年期末考试三年级英语解析",
+						"time": "01月19日开课  共1节",
+						"peo": "已报799人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1547172486737.jpeg?x-oss-process=style/thumb4",
+						"title": "郑州2019年期末考试四年级英语解析",
+						"time": "01月19日开课  共1节",
+						"peo": "已报727人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537930125678.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1529380100935.jpeg?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1516938779910.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1529380100935.jpeg?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					}
+				],
+				"contwo": [
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562810881915.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562811061686.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562810851857.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561622613596.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561604062891.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561371832910.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561371842640.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1560846865507.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1560846742771.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					}
+					
+				]
+		  },
+		  {
+				"img": "6.png",
+				"msg": "公开课",
+				"nianji": "年级",
+				"style": "课程类型",
+				"shaixuan": "筛选",
+				"typeone": "直播课",
+				"typetwo": "视频课",
+				"conone": [
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1552887870461.jpeg?x-oss-process=style/thumb4",
+						"title": "小学必考点 修辞手法全攻略",
+						"time": "03月22日开课  共1节",
+						"peo": "已报1860人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1551951422484.png?x-oss-process=style/thumb4",
+						"title": "剑少英语考级 一级试卷解析",
+						"time": "03月17日开课  共1节",
+						"peo": "已报714人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1551951503686.png?x-oss-process=style/thumb4",
+						"title": "剑少英语考级 二级试卷解析",
+						"time": "03月22日开课  共1节",
+						"peo": "已报633人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1547172212723.jpeg?x-oss-process=style/thumb4",
+						"title": "郑州2019年期末考试三年级英语解析",
+						"time": "01月19日开课  共1节",
+						"peo": "已报799人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1547172486737.jpeg?x-oss-process=style/thumb4",
+						"title": "郑州2019年期末考试四年级英语解析",
+						"time": "01月19日开课  共1节",
+						"peo": "已报727人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537930125678.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1529380100935.jpeg?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1516938779910.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1529380100935.jpeg?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					}
+				],
+				"contwo": [
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562810881915.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562811061686.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562810851857.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561622613596.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561604062891.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561371832910.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561371842640.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1560846865507.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1560846742771.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					}
+					
+				]
+		  },
+		  {
+				"img": "7.png",
+				"msg": "家长课",
+				"nianji": "年级",
+				"style": "课程类型",
+				"shaixuan": "筛选",
+				"typeone": "直播课",
+				"typetwo": "视频课",
+				"conone": [
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1552887870461.jpeg?x-oss-process=style/thumb4",
+						"title": "小学必考点 修辞手法全攻略",
+						"time": "03月22日开课  共1节",
+						"peo": "已报1860人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1551951422484.png?x-oss-process=style/thumb4",
+						"title": "剑少英语考级 一级试卷解析",
+						"time": "03月17日开课  共1节",
+						"peo": "已报714人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1551951503686.png?x-oss-process=style/thumb4",
+						"title": "剑少英语考级 二级试卷解析",
+						"time": "03月22日开课  共1节",
+						"peo": "已报633人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1547172212723.jpeg?x-oss-process=style/thumb4",
+						"title": "郑州2019年期末考试三年级英语解析",
+						"time": "01月19日开课  共1节",
+						"peo": "已报799人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1547172486737.jpeg?x-oss-process=style/thumb4",
+						"title": "郑州2019年期末考试四年级英语解析",
+						"time": "01月19日开课  共1节",
+						"peo": "已报727人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537930125678.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1529380100935.jpeg?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1516938779910.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1529380100935.jpeg?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1537927957741.png?x-oss-process=style/thumb4",
+						"title": "国庆搞定化合价，从此化学不用怕",
+						"time": "10月01日开课  共2节",
+						"peo": "已报436人",
+						"price": "￥9.90"
+					}
+				],
+				"contwo": [
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562810881915.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562811061686.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1562810851857.png?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561622613596.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561604062891.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561371832910.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1561371842640.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1560846865507.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					},
+					{
+						"img": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1560846742771.jpeg?x-oss-process=style/thumb4",
+						"title": "2019郑州市小升初英语面谈解析",
+						"time": "共1节",
+						"peo": "已报939人",
+						"price": "免费"
+					}
+					
+				]
+		  }
+	  ],
+	  "publicti": "好课推荐",
+	  "publiccontent": [
+		  {
+				"img": "a.png",
+				"type": "视频课",
+				"name": "2019郑州市小升初英语面谈解析",
+				"price": "￥9.90",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "2019郑州市小升初语文面谈解析",
+				"people": "已报1237人",
+				"time": "共1节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1496545660176.jpg?x-oss-process=style/thumb6",
+				"name1": "主讲老师：宋艳敏",
+				"age": "8年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1562810813517.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "2019郑州市小升初语文面谈解析可试听"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"img": "b.png",
+				"type": "视频课",
+				"name": "2019郑州小升初面谈概况",
+				"price": "￥9.90",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "2019郑州小升初面谈概况",
+				"people": "已报2469人",
+				"time": "共1节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1527146404900.png?x-oss-process=style/thumb6",
+				"name1": "主讲老师：唐恩泽",
+				"age": "20年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1562578808908.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "2019郑州小升初面谈概况可试听"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"img": "c.png",
+				"type": "视频课",
+				"name": "小升初必考综合知识训练营",
+				"price": "免费",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "小升初必考综合知识训练营",
+				"people": "已报1121人",
+				"time": "共17节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1543311341882.jpeg?x-oss-process=style/thumb6",
+				"name1": "主讲老师：任小玲",
+				"age": "7年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1548309900507.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "综合历史之夏商周可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "综合历史之秦汉"
+					},
+					{
+						"pitch": "第3节",
+						"num": "综合历史之隋唐"
+					},
+					{
+						"pitch": "第4节",
+						"num": "综合历史之宋元明清"
+					},
+					{
+						"pitch": "第5节",
+						"num": "综合地理之中国地理"
+					},
+					{
+						"pitch": "第6节",
+						"num": "综合地理之世界地理"
+					},
+					{
+						"pitch": "第7节",
+						"num": "综合河南之河南历史"
+					},
+					{
+						"pitch": "第8节",
+						"num": "综合河南之河南文化"
+					},
+					{
+						"pitch": "第9节",
+						"num": "综合美术"
+					},
+					{
+						"pitch": "第10节",
+						"num": "综合音乐"
+					},
+					{
+						"pitch": "第11节",
+						"num": "综合体育"
+					},
+					{
+						"pitch": "第12节",
+						"num": "综合物理（上）"
+					},
+					{
+						"pitch": "第13节",
+						"num": "综合物理（中）"
+					},
+					{
+						"pitch": "第14节",
+						"num": "综合物理（下）"
+					},
+					{
+						"pitch": "第15节",
+						"num": "综合化学"
+					},
+					{
+						"pitch": "第16节",
+						"num": "综合生物（上）"
+					},
+					{
+						"pitch": "第17节",
+						"num": "综合生物（下）"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"img": "d.png",
+				"type": "视频课",
+				"name": "2019郑州市小升初面谈在线辅导 ",
+				"price": "￥9.90",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "2019郑州市小升初面谈在线辅导",
+				"people": "已报523人",
+				"time": "共20节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/20170617155806OSHO.jpg?x-oss-process=style/thumb6",
+				"name1": "主讲老师：杨怡",
+				"age": "13年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1553744906793.jpg?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "人文素养-中华民族传统美德可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "创新素养-逆向思维"
+					},
+					{
+						"pitch": "第3节",
+						"num": "英文素养-生活常识中的语言运用"
+					},
+					{
+						"pitch": "第4节",
+						"num": "创新素养-逆向思维"
+					},
+					{
+						"pitch": "第5节",
+						"num": "人文素养-身心发展"
+					},
+					{
+						"pitch": "第6节",
+						"num": "英文素养-生活常识中的语言运用"
+					},
+					{
+						"pitch": "第7节",
+						"num": "人文素养-中外名著"
+					},
+					{
+						"pitch": "第8节",
+						"num": "人文素养-中外名著"
+					},
+					{
+						"pitch": "第9节",
+						"num": "人文素养-行为习惯"
+					},
+					{
+						"pitch": "第10节",
+						"num": "人文素养-行为习惯"
+					},
+					{
+						"pitch": "第11节",
+						"num": "人文素养-中外名著"
+					},
+					{
+						"pitch": "第12节",
+						"num": "英文素养-生活常识中的语言运用"
+					},
+					{
+						"pitch": "第13节",
+						"num": "人文素养"
+					},
+					{
+						"pitch": "第14节",
+						"num": "人文素养"
+					},
+					{
+						"pitch": "第15节",
+						"num": "人文素养"
+					},
+					{
+						"pitch": "第16节",
+						"num": "人文素养-交际能力"
+					},
+					{
+						"pitch": "第17节",
+						"num": "人文素养-交际能力"
+					},
+					{
+						"pitch": "第18节",
+						"num": "人文素养-交际能力"
+					},
+					{
+						"pitch": "第19节",
+						"num": "人文素养-交际能力"
+					},
+					{
+						"pitch": "第20节",
+						"num": "人文素养-交际能力"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"img": "e.jpeg",
+				"type": "视频课",
+				"name": "自然拼读 一级",
+				"price": "￥9.90",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "自然拼读 一级",
+				"people": "已报935人",
+				"time": "共9节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/20181024162342K1VP.jpg?x-oss-process=style/thumb6",
+				"name1": "主讲老师：唐恩泽",
+				"age": "4年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1557585831772.jpg?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "课程优势及授课内容可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "字母Aa-Dd的发音、书写及拼读"
+					},
+					{
+						"pitch": "第3节",
+						"num": "字母Ee-Ii的发音、书写及拼读"
+					},
+					{
+						"pitch": "第4节",
+						"num": "字母Jj-Nn的发音、书写及拼读"
+					},
+					{
+						"pitch": "第5节",
+						"num": "字母Oo-Ss的发音、书写及拼读"
+					},
+					{
+						"pitch": "第6节",
+						"num": "字母Tt-Xx的发音、书写及拼读"
+					},
+					{
+						"pitch": "第7节",
+						"num": "字母Yy,Zz及26个字母拼读"
+					},
+					{
+						"pitch": "第8节",
+						"num": "元音字母拼读规则及拼读练习"
+					},
+					{
+						"pitch": "第9节",
+						"num": "Review、story"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"img": "f.png",
+				"type": "视频课",
+				"name": " 小升初预备暑假必修课",
+				"price": "免费",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "小升初预备暑假必修课",
+				"people": "已报974人",
+				"time": "共9节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1527146404900.png?x-oss-process=style/thumb6",
+				"name1": "主讲老师：唐恩泽",
+				"age": "20年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1559987158147.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "小升初择校热点名校介绍-四大金刚"
+					},
+					{
+						"pitch": "第2节",
+						"num": "小升初择校热点名校介绍-金水区"
+					},
+					{
+						"pitch": "第3节",
+						"num": "小升初必考综合知识-历史1"
+					},
+					{
+						"pitch": "第4节",
+						"num": "小升初必考综合知识-历史2"
+					},
+					{
+						"pitch": "第5节",
+						"num": "小升初必考综合知识-历史3"
+					},
+					{
+						"pitch": "第6节",
+						"num": "小升初必考综合知识-历史4"
+					},
+					{
+						"pitch": "第7节",
+						"num": "小升初必考综合知识-中国地理"
+					},
+					{
+						"pitch": "第8节",
+						"num": "小升初必考综合知识-世界地理"
+					},
+					{
+						"pitch": "第9节",
+						"num": "小升初必考综合知识-体育"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"img": "g.png",
+				"type": "视频课",
+				"name": " 郑州初中英语常考语法串讲",
+				"price": "￥9.90",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "郑州初中英语常考语法串讲",
+				"people": "已报455人",
+				"time": "共15节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/201801261350173496.jpg?x-oss-process=style/thumb6",
+				"name1": "主讲老师：任小玲",
+				"age": "7年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1563518842335.png?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "常考语法串讲-名词可试听"
+					},
+					{
+						"pitch": "第2节",
+						"num": "常考语法串讲-冠词"
+					},
+					{
+						"pitch": "第3节",
+						"num": "常考语法串讲-冠词"
+					},
+					{
+						"pitch": "第4节",
+						"num": "常考语法串讲-代词"
+					},
+					{
+						"pitch": "第5节",
+						"num": "常考语法串讲-代词"
+					},
+					{
+						"pitch": "第6节",
+						"num": "常考语法串讲-代词"
+					},
+					{
+						"pitch": "第7节",
+						"num": "常考语法串讲-介词"
+					},
+					{
+						"pitch": "第8节",
+						"num": "常考语法串讲-介词"
+					},
+					{
+						"pitch": "第9节",
+						"num": "常考语法串讲-介词"
+					},
+					{
+						"pitch": "第10节",
+						"num": "常考语法串讲-动词"
+					},
+					{
+						"pitch": "第11节",
+						"num": "常考语法串讲-动词"
+					},
+					{
+						"pitch": "第12节",
+						"num": "常考语法串讲-动词"
+					},
+					{
+						"pitch": "第13节",
+						"num": "常考语法串讲-时态"
+					},
+					{
+						"pitch": "第14节",
+						"num": "常考语法串讲-时态"
+					},
+					{
+						"pitch": "第15节",
+						"num": "常考语法串讲-时态"
+					}
+				],
+				"evalu": "8.gif"
+		  },
+		  {
+				"img": "h.png",
+				"type": "视频课",
+				"name": "郑州小升初唐校说校",
+				"price": "￥9.90",
+				"active1": "课程详情",
+				"active2": "课程目录",
+				"active3": "学员评价",
+				"title1": "郑州小升初唐校说校",
+				"people": "已报3193人",
+				"time": "共9节",
+				"photourl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/lilclpic/lilclpic_1527146404900.png?x-oss-process=style/thumb6",
+				"name1": "主讲老师：唐恩泽",
+				"age": "20年教龄",
+				"conurl": "https://xuexi8.oss-cn-beijing.aliyuncs.com/1560499982184.jpg?x-oss-process=style/thumb8",
+				"title2": "咨询通道",
+				"img1": "one.jpg",
+				"img2": "two.jpg",
+				"ml": [
+					{
+						"pitch": "第1节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第2节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第3节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第4节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第5节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第6节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第7节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第8节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					},
+					{
+						"pitch": "第9节",
+						"num": "四大金刚学校最新介绍和全面解析"
+					}
+				],
+				"evalu": "8.gif"
+		  }
+		 ]
+		 
+	
+	}
+}
+    
